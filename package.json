@@ -17,10 +17,18 @@
   },
   "homepage": "https://github.com/Ray1988/GroupMeet#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "eslint": "^4.19.1",
     "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
     "mongodb": "^3.0.7",
-    "npm": "^5.8.0"
+    "npm": "^5.8.0",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-google": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.4",
+    "q": "^1.5.1"
   },
   "devDependencies": {
     "eslint-config-google": "^0.9.1"
